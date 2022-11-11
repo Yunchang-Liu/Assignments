@@ -7,6 +7,9 @@ variable RainTomorrow.
 ## Problem Statement
 RainTomorrow is the target variable to predict. It means -- did it rain the next day, Yes or No?
 
+## DataSet
+[weatherAUS.csv](https://github.com/Yunchang-Liu/Assignments/blob/main/ML_Project/weatherAUS.csv)
+
 ## Steps
 1. Import the Dataset
 2. Divide into training set and test set before Data cleaning
